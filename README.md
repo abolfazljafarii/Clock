@@ -1,2 +1,2 @@
 # Clock
-A simple Clock
+A Clock
